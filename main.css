@@ -1,0 +1,18 @@
+.body{
+    background-color:aquamarine;
+}
+h1{
+    font-style: initial;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#submit{
+    width: 70px;
+    height: 30px;
+    background-color:tan;
+    box-shadow: 3px;
+    border-radius: 5px;
+}
+#input{
+    height: 30px;
+    width: 100px;
+}
